@@ -1,0 +1,835 @@
+[
+  {
+    "original": "24000\\WhatsApp Image 2026-10-18 at 14.54.58.jpeg",
+    "id": "sombreros-24000-01",
+    "name": "Sombrero camel con cinta café",
+    "category": "sombreros",
+    "filename": "sombrero-camel-con-cinta-cafe-001.webp"
+  },
+  {
+    "original": "24000\\WhatsApp Image 2026-10-18 at 14.54.59.jpeg",
+    "id": "sombreros-24000-02",
+    "name": "Sombrero verde oliva con cinta café",
+    "category": "sombreros",
+    "filename": "sombrero-verde-oliva-con-cinta-cafe-002.webp"
+  },
+  {
+    "original": "24000\\WhatsApp Image 2026-10-18 at 14.55.00.jpeg",
+    "id": "sombreros-24000-03",
+    "name": "Sombrero negro con cinta negra",
+    "category": "sombreros",
+    "filename": "sombrero-negro-con-cinta-negra-003.webp"
+  },
+  {
+    "original": "24000\\WhatsApp Image 2026-10-18 at 14.55.01.jpeg",
+    "id": "sombreros-24000-04",
+    "name": "Sombrero taupe con cinta trenzada",
+    "category": "sombreros",
+    "filename": "sombrero-taupe-con-cinta-trenzada-004.webp"
+  },
+  {
+    "original": "24000\\WhatsApp Image 2026-10-18 at 14.55.02.jpeg",
+    "id": "sombreros-24000-05",
+    "name": "Sombrero naranja con cinta café",
+    "category": "sombreros",
+    "filename": "sombrero-naranja-con-cinta-cafe-005.webp"
+  },
+  {
+    "original": "24000\\WhatsApp Image 2026-10-18 at 14.55.03.jpeg",
+    "id": "sombreros-24000-06",
+    "name": "Sombrero verde con cinta trenzada",
+    "category": "sombreros",
+    "filename": "sombrero-verde-con-cinta-trenzada-006.webp"
+  },
+  {
+    "original": "24000\\WhatsApp Image 2026-10-18 at 14.55.07.jpeg",
+    "id": "sombreros-24000-07",
+    "name": "Sombrero blanco con cinta negra",
+    "category": "sombreros",
+    "filename": "sombrero-blanco-con-cinta-negra-007.webp"
+  },
+  {
+    "original": "24000\\WhatsApp Image 2026-10-18 at 14.55.10.jpeg",
+    "id": "sombreros-24000-08",
+    "name": "Sombrero rosa con cinta café",
+    "category": "sombreros",
+    "filename": "sombrero-rosa-con-cinta-cafe-008.webp"
+  },
+  {
+    "original": "28000\\WhatsApp Image 2026-10-22 at 09.44.06 (1).jpeg",
+    "id": "billeteras-28000-01",
+    "name": "Gorras surtidas en cuadrícula verde y roja",
+    "category": "gorras",
+    "filename": "gorras-surtidas-en-cuadricula-verde-y-roja-009.webp"
+  },
+  {
+    "original": "28000\\WhatsApp Image 2026-10-22 at 09.44.06.jpeg",
+    "id": "billeteras-28000-02",
+    "name": "Gorras surtidas en cuadrícula negra y rosa",
+    "category": "gorras",
+    "filename": "gorras-surtidas-en-cuadricula-negra-y-rosa-010.webp"
+  },
+  {
+    "original": "28000\\WhatsApp Image 2026-10-22 at 09.44.07.jpeg",
+    "id": "billeteras-28000-03",
+    "name": "Gorras surtidas en cuadrícula azul y naranja",
+    "category": "gorras",
+    "filename": "gorras-surtidas-en-cuadricula-azul-y-naranja-011.webp"
+  },
+  {
+    "original": "28000\\WhatsApp Image 2026-10-22 at 09.44.08.jpeg",
+    "id": "billeteras-28000-04",
+    "name": "Gorras surtidas en cuadrícula de tonos claros",
+    "category": "gorras",
+    "filename": "gorras-surtidas-en-cuadricula-de-tonos-claros-012.webp"
+  },
+  {
+    "original": "28000\\WhatsApp Image 2026-10-22 at 09.44.09.jpeg",
+    "id": "billeteras-28000-05",
+    "name": "Gorras surtidas en cuadrícula roja y negra",
+    "category": "gorras",
+    "filename": "gorras-surtidas-en-cuadricula-roja-y-negra-013.webp"
+  },
+  {
+    "original": "28000\\WhatsApp Image 2026-10-22 at 09.44.10.jpeg",
+    "id": "billeteras-28000-06",
+    "name": "Gorras surtidas en cuadrícula verde y azul",
+    "category": "gorras",
+    "filename": "gorras-surtidas-en-cuadricula-verde-y-azul-014.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.33 (1).jpeg",
+    "id": "gorras-30000-01",
+    "name": "Billetera negra con emblema y caja gris",
+    "category": "billeteras",
+    "filename": "billetera-negra-con-emblema-y-caja-gris-015.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.33.jpeg",
+    "id": "gorras-30000-02",
+    "name": "Billetera negra con monograma y caja naranja",
+    "category": "billeteras",
+    "filename": "billetera-negra-con-monograma-y-caja-naranja-016.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.35.jpeg",
+    "id": "gorras-30000-03",
+    "name": "Billetera negra lisa con caja azul grisácea",
+    "category": "billeteras",
+    "filename": "billetera-negra-lisa-con-caja-azul-grisacea-017.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.36.jpeg",
+    "id": "gorras-30000-04",
+    "name": "Billetera negra con costura y caja naranja",
+    "category": "billeteras",
+    "filename": "billetera-negra-con-costura-y-caja-naranja-018.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.37.jpeg",
+    "id": "gorras-30000-05",
+    "name": "Billetera negra texturizada con caja gris",
+    "category": "billeteras",
+    "filename": "billetera-negra-texturizada-con-caja-gris-019.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.39 (1).jpeg",
+    "id": "gorras-30000-06",
+    "name": "Billetera azul marino con caja celeste",
+    "category": "billeteras",
+    "filename": "billetera-azul-marino-con-caja-celeste-020.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.39.jpeg",
+    "id": "gorras-30000-07",
+    "name": "Billetera café con monograma y caja naranja",
+    "category": "billeteras",
+    "filename": "billetera-cafe-con-monograma-y-caja-naranja-021.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.40.jpeg",
+    "id": "gorras-30000-08",
+    "name": "Billetera gris con monograma y caja naranja",
+    "category": "billeteras",
+    "filename": "billetera-gris-con-monograma-y-caja-naranja-022.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.41.jpeg",
+    "id": "gorras-30000-09",
+    "name": "Billetera negra vertical con caja gris",
+    "category": "billeteras",
+    "filename": "billetera-negra-vertical-con-caja-gris-023.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.42.jpeg",
+    "id": "gorras-30000-10",
+    "name": "Billetera negra con monograma grande y caja naranja",
+    "category": "billeteras",
+    "filename": "billetera-negra-con-monograma-grande-y-caja-naranja-024.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.43.jpeg",
+    "id": "gorras-30000-11",
+    "name": "Billetera negra con textura granulada",
+    "category": "billeteras",
+    "filename": "billetera-negra-con-textura-granulada-025.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.44.jpeg",
+    "id": "gorras-30000-12",
+    "name": "Billetera azul con monograma y caja naranja",
+    "category": "billeteras",
+    "filename": "billetera-azul-con-monograma-y-caja-naranja-026.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.45.jpeg",
+    "id": "gorras-30000-13",
+    "name": "Billetera negra con monograma y estuche naranja",
+    "category": "billeteras",
+    "filename": "billetera-negra-con-monograma-y-estuche-naranja-027.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.47 (1).jpeg",
+    "id": "gorras-30000-14",
+    "name": "Billetera beige a cuadros con caja café",
+    "category": "billeteras",
+    "filename": "billetera-beige-a-cuadros-con-caja-cafe-028.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.47.jpeg",
+    "id": "gorras-30000-15",
+    "name": "Billetera gris con banda oscura y caja verde",
+    "category": "billeteras",
+    "filename": "billetera-gris-con-banda-oscura-y-caja-verde-029.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.48.jpeg",
+    "id": "gorras-30000-16",
+    "name": "Billetera gris con monograma y caja verde",
+    "category": "billeteras",
+    "filename": "billetera-gris-con-monograma-y-caja-verde-030.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.49.jpeg",
+    "id": "gorras-30000-17",
+    "name": "Billetera negra lisa con caja gris oscura",
+    "category": "billeteras",
+    "filename": "billetera-negra-lisa-con-caja-gris-oscura-031.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.50.jpeg",
+    "id": "gorras-30000-18",
+    "name": "Billetera azul con figura y caja azul",
+    "category": "billeteras",
+    "filename": "billetera-azul-con-figura-y-caja-azul-032.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.51.jpeg",
+    "id": "gorras-30000-19",
+    "name": "Billetera beige a cuadros con acento rojo",
+    "category": "billeteras",
+    "filename": "billetera-beige-a-cuadros-con-acento-rojo-033.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.52.jpeg",
+    "id": "gorras-30000-20",
+    "name": "Billetera blanca a cuadros con caja café",
+    "category": "billeteras",
+    "filename": "billetera-blanca-a-cuadros-con-caja-cafe-034.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.53.jpeg",
+    "id": "gorras-30000-21",
+    "name": "Billetera negra con emblema circular y caja verde",
+    "category": "billeteras",
+    "filename": "billetera-negra-con-emblema-circular-y-caja-verde-035.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.54.jpeg",
+    "id": "gorras-30000-22",
+    "name": "Billetera negra con franja verde y roja",
+    "category": "billeteras",
+    "filename": "billetera-negra-con-franja-verde-y-roja-036.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.55 (1).jpeg",
+    "id": "gorras-30000-23",
+    "name": "Billetera azul con dibujo y estuche azul",
+    "category": "billeteras",
+    "filename": "billetera-azul-con-dibujo-y-estuche-azul-037.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.55.jpeg",
+    "id": "gorras-30000-24",
+    "name": "Billetera beige a cuadros con parche café",
+    "category": "billeteras",
+    "filename": "billetera-beige-a-cuadros-con-parche-cafe-038.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.56.jpeg",
+    "id": "gorras-30000-25",
+    "name": "Billetera azul grisácea con franja cruzada",
+    "category": "billeteras",
+    "filename": "billetera-azul-grisacea-con-franja-cruzada-039.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.57.jpeg",
+    "id": "gorras-30000-26",
+    "name": "Billetera negra vertical con caja verde",
+    "category": "billeteras",
+    "filename": "billetera-negra-vertical-con-caja-verde-040.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.59.jpeg",
+    "id": "gorras-30000-27",
+    "name": "Billetera gris de monograma con estuche verde",
+    "category": "billeteras",
+    "filename": "billetera-gris-de-monograma-con-estuche-verde-041.webp"
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.05.00.jpeg",
+    "id": "gorras-30000-28",
+    "name": "Billetera negra con emblema y caja celeste",
+    "category": "billeteras",
+    "filename": "billetera-negra-con-emblema-y-caja-celeste-042.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.35.51.jpeg",
+    "id": "gorras-32000-01",
+    "name": "Gorra café con emblema de tres franjas",
+    "category": "gorras",
+    "filename": "gorra-cafe-con-emblema-de-tres-franjas-043.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.35.52 (1).jpeg",
+    "id": "gorras-32000-02",
+    "name": "Gorra rosa con emblema de tres franjas",
+    "category": "gorras",
+    "filename": "gorra-rosa-con-emblema-de-tres-franjas-044.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.35.52.jpeg",
+    "id": "gorras-32000-03",
+    "name": "Gorra blanca con emblema de tres franjas",
+    "category": "gorras",
+    "filename": "gorra-blanca-con-emblema-de-tres-franjas-045.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.35.53.jpeg",
+    "id": "gorras-32000-04",
+    "name": "Gorra roja con emblema de tres franjas",
+    "category": "gorras",
+    "filename": "gorra-roja-con-emblema-de-tres-franjas-046.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.35.54.jpeg",
+    "id": "gorras-32000-05",
+    "name": "Gorra gris con emblema de tres franjas",
+    "category": "gorras",
+    "filename": "gorra-gris-con-emblema-de-tres-franjas-047.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.35.55.jpeg",
+    "id": "gorras-32000-06",
+    "name": "Gorra negra con bordado de automovilismo amarillo",
+    "category": "gorras",
+    "filename": "gorra-negra-con-bordado-de-automovilismo-amarillo-048.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.35.56.jpeg",
+    "id": "gorras-32000-07",
+    "name": "Gorra negra con bordado de automovilismo verde",
+    "category": "gorras",
+    "filename": "gorra-negra-con-bordado-de-automovilismo-verde-049.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.00 (1).jpeg",
+    "id": "gorras-32000-08",
+    "name": "Gorra blanca con bordado de automovilismo amarillo",
+    "category": "gorras",
+    "filename": "gorra-blanca-con-bordado-de-automovilismo-amarillo-050.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.00.jpeg",
+    "id": "gorras-32000-09",
+    "name": "Gorra blanca con bordado de automovilismo verde",
+    "category": "gorras",
+    "filename": "gorra-blanca-con-bordado-de-automovilismo-verde-051.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.03.jpeg",
+    "id": "gorras-32000-10",
+    "name": "Gorra beige y café con letras frontales",
+    "category": "gorras",
+    "filename": "gorra-beige-y-cafe-con-letras-frontales-052.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.04.jpeg",
+    "id": "gorras-32000-11",
+    "name": "Gorra beige y verde con letras frontales",
+    "category": "gorras",
+    "filename": "gorra-beige-y-verde-con-letras-frontales-053.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.06.jpeg",
+    "id": "gorras-32000-12",
+    "name": "Gorra beige y azul con letras frontales",
+    "category": "gorras",
+    "filename": "gorra-beige-y-azul-con-letras-frontales-054.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.08.jpeg",
+    "id": "gorras-32000-13",
+    "name": "Gorra negra con letras en relieve",
+    "category": "gorras",
+    "filename": "gorra-negra-con-letras-en-relieve-055.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.09.jpeg",
+    "id": "gorras-32000-14",
+    "name": "Gorra beige y vinotinto con letras frontales",
+    "category": "gorras",
+    "filename": "gorra-beige-y-vinotinto-con-letras-frontales-056.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.13.jpeg",
+    "id": "gorras-32000-15",
+    "name": "Gorra negra con monograma frontal",
+    "category": "gorras",
+    "filename": "gorra-negra-con-monograma-frontal-057.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.14.jpeg",
+    "id": "gorras-32000-16",
+    "name": "Gorra blanca y rosa con monograma frontal",
+    "category": "gorras",
+    "filename": "gorra-blanca-y-rosa-con-monograma-frontal-058.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.18.jpeg",
+    "id": "gorras-32000-17",
+    "name": "Gorra beige y café con monograma frontal",
+    "category": "gorras",
+    "filename": "gorra-beige-y-cafe-con-monograma-frontal-059.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.20.jpeg",
+    "id": "gorras-32000-18",
+    "name": "Gorra café y crema con monograma frontal",
+    "category": "gorras",
+    "filename": "gorra-cafe-y-crema-con-monograma-frontal-060.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.21.jpeg",
+    "id": "gorras-32000-19",
+    "name": "Gorra crema y azul marino con monograma frontal",
+    "category": "gorras",
+    "filename": "gorra-crema-y-azul-marino-con-monograma-frontal-061.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.25.jpeg",
+    "id": "gorras-32000-20",
+    "name": "Gorra negra con parche circular",
+    "category": "gorras",
+    "filename": "gorra-negra-con-parche-circular-062.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.26.jpeg",
+    "id": "gorras-32000-21",
+    "name": "Gorra verde oliva con parche triangular",
+    "category": "gorras",
+    "filename": "gorra-verde-oliva-con-parche-triangular-063.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.27.jpeg",
+    "id": "gorras-32000-22",
+    "name": "Gorra café con parche triangular",
+    "category": "gorras",
+    "filename": "gorra-cafe-con-parche-triangular-064.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.29.jpeg",
+    "id": "gorras-32000-23",
+    "name": "Gorra beige con parche triangular",
+    "category": "gorras",
+    "filename": "gorra-beige-con-parche-triangular-065.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.31.jpeg",
+    "id": "gorras-32000-24",
+    "name": "Gorra negra con parche triangular",
+    "category": "gorras",
+    "filename": "gorra-negra-con-parche-triangular-066.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.32.jpeg",
+    "id": "gorras-32000-25",
+    "name": "Gorra blanca con parche triangular",
+    "category": "gorras",
+    "filename": "gorra-blanca-con-parche-triangular-067.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.34.jpeg",
+    "id": "gorras-32000-26",
+    "name": "Gorra negra con bordado circular",
+    "category": "gorras",
+    "filename": "gorra-negra-con-bordado-circular-068.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.37.jpeg",
+    "id": "gorras-32000-27",
+    "name": "Gorra rosa con bordado circular",
+    "category": "gorras",
+    "filename": "gorra-rosa-con-bordado-circular-069.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.39.jpeg",
+    "id": "gorras-32000-28",
+    "name": "Gorra roja con bordado circular",
+    "category": "gorras",
+    "filename": "gorra-roja-con-bordado-circular-070.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.40.jpeg",
+    "id": "gorras-32000-29",
+    "name": "Gorra verde con bordado circular",
+    "category": "gorras",
+    "filename": "gorra-verde-con-bordado-circular-071.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.42.jpeg",
+    "id": "gorras-32000-30",
+    "name": "Gorra blanca con bordado circular",
+    "category": "gorras",
+    "filename": "gorra-blanca-con-bordado-circular-072.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.43.jpeg",
+    "id": "gorras-32000-31",
+    "name": "Gorra café con letras cursivas y pedrería",
+    "category": "gorras",
+    "filename": "gorra-cafe-con-letras-cursivas-y-pedreria-073.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.47.jpeg",
+    "id": "gorras-32000-32",
+    "name": "Gorra crema con letras cursivas y pedrería",
+    "category": "gorras",
+    "filename": "gorra-crema-con-letras-cursivas-y-pedreria-074.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.49.jpeg",
+    "id": "gorras-32000-33",
+    "name": "Gorra azul marino con letras cursivas y pedrería",
+    "category": "gorras",
+    "filename": "gorra-azul-marino-con-letras-cursivas-y-pedreria-075.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.50.jpeg",
+    "id": "gorras-32000-34",
+    "name": "Gorra verde oliva con letras cursivas y pedrería",
+    "category": "gorras",
+    "filename": "gorra-verde-oliva-con-letras-cursivas-y-pedreria-076.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.57.jpeg",
+    "id": "gorras-32000-35",
+    "name": "Gorra blanca con emblema en relieve",
+    "category": "gorras",
+    "filename": "gorra-blanca-con-emblema-en-relieve-077.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.58.jpeg",
+    "id": "gorras-32000-36",
+    "name": "Gorra beige con emblema en relieve",
+    "category": "gorras",
+    "filename": "gorra-beige-con-emblema-en-relieve-078.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.37.00.jpeg",
+    "id": "gorras-32000-37",
+    "name": "Gorra negra con emblema de hojas blanco",
+    "category": "gorras",
+    "filename": "gorra-negra-con-emblema-de-hojas-blanco-079.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.37.04.jpeg",
+    "id": "gorras-32000-38",
+    "name": "Gorra blanca y negra con emblema de hojas",
+    "category": "gorras",
+    "filename": "gorra-blanca-y-negra-con-emblema-de-hojas-080.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.37.10.jpeg",
+    "id": "gorras-32000-39",
+    "name": "Gorra blanca con emblema de hojas gris",
+    "category": "gorras",
+    "filename": "gorra-blanca-con-emblema-de-hojas-gris-081.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.37.15 (1).jpeg",
+    "id": "gorras-32000-40",
+    "name": "Gorra gris con emblema de hojas negro",
+    "category": "gorras",
+    "filename": "gorra-gris-con-emblema-de-hojas-negro-082.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.37.15.jpeg",
+    "id": "gorras-32000-41",
+    "name": "Gorra blanca con emblema de hojas negro",
+    "category": "gorras",
+    "filename": "gorra-blanca-con-emblema-de-hojas-negro-083.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.37.18.jpeg",
+    "id": "gorras-32000-42",
+    "name": "Gorra negra con emblema de hojas en relieve",
+    "category": "gorras",
+    "filename": "gorra-negra-con-emblema-de-hojas-en-relieve-084.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.37.22.jpeg",
+    "id": "gorras-32000-43",
+    "name": "Gorra gris con parche cuadrado",
+    "category": "gorras",
+    "filename": "gorra-gris-con-parche-cuadrado-085.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.37.25.jpeg",
+    "id": "gorras-32000-44",
+    "name": "Gorra lila con letras y parche triangular",
+    "category": "gorras",
+    "filename": "gorra-lila-con-letras-y-parche-triangular-086.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.37.33.jpeg",
+    "id": "gorras-32000-45",
+    "name": "Gorra fucsia con letras y parche triangular",
+    "category": "gorras",
+    "filename": "gorra-fucsia-con-letras-y-parche-triangular-087.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.37.49.jpeg",
+    "id": "gorras-32000-46",
+    "name": "Gorra blanca y negra con bordado de automovilismo",
+    "category": "gorras",
+    "filename": "gorra-blanca-y-negra-con-bordado-de-automovilismo-088.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.38.04.jpeg",
+    "id": "gorras-32000-47",
+    "name": "Gorra negra con bordado de automovilismo blanco",
+    "category": "gorras",
+    "filename": "gorra-negra-con-bordado-de-automovilismo-blanco-089.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.38.21.jpeg",
+    "id": "gorras-32000-48",
+    "name": "Gorra roja y negra con bordado de automovilismo",
+    "category": "gorras",
+    "filename": "gorra-roja-y-negra-con-bordado-de-automovilismo-090.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.38.36.jpeg",
+    "id": "gorras-32000-49",
+    "name": "Gorra azul marino con bordado de automovilismo",
+    "category": "gorras",
+    "filename": "gorra-azul-marino-con-bordado-de-automovilismo-091.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.38.49.jpeg",
+    "id": "gorras-32000-50",
+    "name": "Gorra blanca con escudo amarillo y líneas negras",
+    "category": "gorras",
+    "filename": "gorra-blanca-con-escudo-amarillo-y-lineas-negras-092.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.39.15.jpeg",
+    "id": "gorras-32000-51",
+    "name": "Gorra negra con escudo amarillo y líneas blancas",
+    "category": "gorras",
+    "filename": "gorra-negra-con-escudo-amarillo-y-lineas-blancas-093.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.39.31.jpeg",
+    "id": "gorras-32000-52",
+    "name": "Gorra negra con escudo amarillo",
+    "category": "gorras",
+    "filename": "gorra-negra-con-escudo-amarillo-094.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.39.36.jpeg",
+    "id": "gorras-32000-53",
+    "name": "Gorra taupe con monograma en relieve",
+    "category": "gorras",
+    "filename": "gorra-taupe-con-monograma-en-relieve-095.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.39.56.jpeg",
+    "id": "gorras-32000-54",
+    "name": "Gorra beige con parche cuadrado tonal",
+    "category": "gorras",
+    "filename": "gorra-beige-con-parche-cuadrado-tonal-096.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.40.14.jpeg",
+    "id": "gorras-32000-55",
+    "name": "Gorra blanca con parche cuadrado café",
+    "category": "gorras",
+    "filename": "gorra-blanca-con-parche-cuadrado-cafe-097.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.40.41.jpeg",
+    "id": "gorras-32000-56",
+    "name": "Gorra negra con parche cuadrado naranja",
+    "category": "gorras",
+    "filename": "gorra-negra-con-parche-cuadrado-naranja-098.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.40.57.jpeg",
+    "id": "gorras-32000-57",
+    "name": "Gorra crema con letras cursivas",
+    "category": "gorras",
+    "filename": "gorra-crema-con-letras-cursivas-099.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.43.00.jpeg",
+    "id": "gorras-32000-58",
+    "name": "Gorra blanca con letras cursivas",
+    "category": "gorras",
+    "filename": "gorra-blanca-con-letras-cursivas-100.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.43.10.jpeg",
+    "id": "gorras-32000-59",
+    "name": "Gorra beige con parche rectangular naranja",
+    "category": "gorras",
+    "filename": "gorra-beige-con-parche-rectangular-naranja-101.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.43.23.jpeg",
+    "id": "gorras-32000-60",
+    "name": "Gorra negra con parche rectangular naranja",
+    "category": "gorras",
+    "filename": "gorra-negra-con-parche-rectangular-naranja-102.webp"
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.43.47.jpeg",
+    "id": "gorras-32000-61",
+    "name": "Gorra blanca con parche rectangular naranja",
+    "category": "gorras",
+    "filename": "gorra-blanca-con-parche-rectangular-naranja-103.webp"
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.19.jpeg",
+    "id": "gorras-35000-01",
+    "name": "Gorra blanca con bordados laterales",
+    "category": "gorras",
+    "filename": "gorra-blanca-con-bordados-laterales-104.webp"
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.20.jpeg",
+    "id": "gorras-35000-02",
+    "name": "Gorra blanca con letras NY y bordado turquesa",
+    "category": "gorras",
+    "filename": "gorra-blanca-con-letras-ny-y-bordado-turquesa-105.webp"
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.21 (1).jpeg",
+    "id": "gorras-35000-03",
+    "name": "Gorra negra con letras NY y bordado turquesa",
+    "category": "gorras",
+    "filename": "gorra-negra-con-letras-ny-y-bordado-turquesa-106.webp"
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.21.jpeg",
+    "id": "gorras-35000-04",
+    "name": "Gorra roja con letras NY y bordado turquesa",
+    "category": "gorras",
+    "filename": "gorra-roja-con-letras-ny-y-bordado-turquesa-107.webp"
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.22.jpeg",
+    "id": "gorras-35000-05",
+    "name": "Gorra azul con letras NY y bordado turquesa",
+    "category": "gorras",
+    "filename": "gorra-azul-con-letras-ny-y-bordado-turquesa-108.webp"
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.23.jpeg",
+    "id": "gorras-35000-06",
+    "name": "Gorra azul marino con bordados rojos",
+    "category": "gorras",
+    "filename": "gorra-azul-marino-con-bordados-rojos-109.webp"
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.24.jpeg",
+    "id": "gorras-35000-07",
+    "name": "Gorra azul con letras LA",
+    "category": "gorras",
+    "filename": "gorra-azul-con-letras-la-110.webp"
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.25.jpeg",
+    "id": "gorras-35000-08",
+    "name": "Gorra negra con letras LA",
+    "category": "gorras",
+    "filename": "gorra-negra-con-letras-la-111.webp"
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.26.jpeg",
+    "id": "gorras-35000-09",
+    "name": "Gorra negra con bordado lateral rojo",
+    "category": "gorras",
+    "filename": "gorra-negra-con-bordado-lateral-rojo-112.webp"
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.27 (1).jpeg",
+    "id": "gorras-35000-10",
+    "name": "Gorra azul marino con emblemas laterales",
+    "category": "gorras",
+    "filename": "gorra-azul-marino-con-emblemas-laterales-113.webp"
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.27.jpeg",
+    "id": "gorras-35000-11",
+    "name": "Gorra negra con emblemas laterales blancos",
+    "category": "gorras",
+    "filename": "gorra-negra-con-emblemas-laterales-blancos-114.webp"
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.28.jpeg",
+    "id": "gorras-35000-12",
+    "name": "Gorra roja con bordados laterales",
+    "category": "gorras",
+    "filename": "gorra-roja-con-bordados-laterales-115.webp"
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.29.jpeg",
+    "id": "gorras-35000-13",
+    "name": "Gorra roja con emblema lateral circular",
+    "category": "gorras",
+    "filename": "gorra-roja-con-emblema-lateral-circular-116.webp"
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.30.jpeg",
+    "id": "gorras-35000-14",
+    "name": "Gorra azul marino con letra B",
+    "category": "gorras",
+    "filename": "gorra-azul-marino-con-letra-b-117.webp"
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.31.jpeg",
+    "id": "gorras-35000-15",
+    "name": "Gorra negra con letra B",
+    "category": "gorras",
+    "filename": "gorra-negra-con-letra-b-118.webp"
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.32.jpeg",
+    "id": "gorras-35000-16",
+    "name": "Gorra roja con letra B",
+    "category": "gorras",
+    "filename": "gorra-roja-con-letra-b-119.webp"
+  }
+]

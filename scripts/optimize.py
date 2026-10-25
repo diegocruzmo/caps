@@ -6,22 +6,26 @@ root = Path(__file__).resolve().parents[1]
 out = root / 'assets' / 'products'
 out.mkdir(parents=True, exist_ok=True)
 products, report = [], []
+metadata = {x['original'].replace('\\', '/'): x for x in json.loads((root/'assets'/'image-metadata.json').read_text(encoding='utf-8'))}
+catalog_path = root/'js'/'data'/'products.js'
+existing = {p['id']: p for p in json.loads(catalog_path.read_text(encoding='utf-8').split('=', 1)[1].strip().rstrip(';'))} if catalog_path.exists() else {}
 for folder in sorted(root.iterdir()):
     if not folder.is_dir() or not folder.name.isdigit():
         continue
     for i, source in enumerate(sorted(folder.glob('*.jpeg')), 1):
-        # These groups reflect the supplied photos; no brand authenticity is implied.
-        category = 'sombreros' if folder.name == '24000' else 'billeteras' if folder.name == '28000' else 'gorras'
-        if folder.name == '24000' and i > 8:
-            category = 'gorras'
-        label = {'gorras':'Gorra', 'sombreros':'Sombrero', 'billeteras':'Billetera'}[category]
-        slug = f'{category}-{folder.name}-{i:02}'
-        target = out / f'{slug}.webp'
+        # Classify from reviewed metadata, never from a price folder.
+        meta = metadata.get(source.relative_to(root).as_posix())
+        if not meta:
+            raise ValueError(f'Agrega nombre y categoría a assets/image-metadata.json: {source.name}')
+        category, slug = meta['category'], meta['id']
+        target = out / meta['filename']
         with Image.open(source) as original:
             im = ImageOps.exif_transpose(original).convert('RGB')
             im.thumbnail((1000, 1200))
             im.save(target, 'WEBP', quality=80, method=6)
-        products.append(dict(id=slug, name=f'{label} {folder.name}-{i:02}', price=int(folder.name), category=category, images=[f'assets/products/{slug}.webp'], description='Modelo de la fotografía. Confirma materiales, medidas y disponibilidad con nuestro equipo por WhatsApp.', available=True, featured=False, variants=['Modelo fotografiado']))
+        product = existing.get(slug, dict(id=slug, price=int(folder.name), description='Modelo de la fotografía. Confirma materiales, medidas y disponibilidad con nuestro equipo por WhatsApp.', available=True, featured=False, variants=['Modelo fotografiado']))
+        product.update(name=meta['name'], category=category, images=[target.relative_to(root).as_posix()])
+        products.append(product)
         report.append(dict(original=str(source.relative_to(root)), optimized=str(target.relative_to(root)), before=source.stat().st_size, after=target.stat().st_size))
 (root/'js'/'data').mkdir(parents=True, exist_ok=True)
 (root/'js'/'data'/'products.js').write_text('export const products = '+json.dumps(products,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
