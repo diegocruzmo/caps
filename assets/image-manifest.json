@@ -1,0 +1,716 @@
+[
+  {
+    "original": "24000\\WhatsApp Image 2026-10-18 at 14.54.58.jpeg",
+    "optimized": "assets\\products\\sombreros-24000-01.webp",
+    "before": 123409,
+    "after": 68192
+  },
+  {
+    "original": "24000\\WhatsApp Image 2026-10-18 at 14.54.59.jpeg",
+    "optimized": "assets\\products\\sombreros-24000-02.webp",
+    "before": 110055,
+    "after": 58958
+  },
+  {
+    "original": "24000\\WhatsApp Image 2026-10-18 at 14.55.00.jpeg",
+    "optimized": "assets\\products\\sombreros-24000-03.webp",
+    "before": 114745,
+    "after": 61160
+  },
+  {
+    "original": "24000\\WhatsApp Image 2026-10-18 at 14.55.01.jpeg",
+    "optimized": "assets\\products\\sombreros-24000-04.webp",
+    "before": 117424,
+    "after": 64716
+  },
+  {
+    "original": "24000\\WhatsApp Image 2026-10-18 at 14.55.02.jpeg",
+    "optimized": "assets\\products\\sombreros-24000-05.webp",
+    "before": 109257,
+    "after": 58066
+  },
+  {
+    "original": "24000\\WhatsApp Image 2026-10-18 at 14.55.03.jpeg",
+    "optimized": "assets\\products\\sombreros-24000-06.webp",
+    "before": 117991,
+    "after": 64922
+  },
+  {
+    "original": "24000\\WhatsApp Image 2026-10-18 at 14.55.07.jpeg",
+    "optimized": "assets\\products\\sombreros-24000-07.webp",
+    "before": 111530,
+    "after": 60372
+  },
+  {
+    "original": "24000\\WhatsApp Image 2026-10-18 at 14.55.10.jpeg",
+    "optimized": "assets\\products\\sombreros-24000-08.webp",
+    "before": 108704,
+    "after": 58236
+  },
+  {
+    "original": "28000\\WhatsApp Image 2026-10-22 at 09.44.06 (1).jpeg",
+    "optimized": "assets\\products\\billeteras-28000-01.webp",
+    "before": 219564,
+    "after": 105716
+  },
+  {
+    "original": "28000\\WhatsApp Image 2026-10-22 at 09.44.06.jpeg",
+    "optimized": "assets\\products\\billeteras-28000-02.webp",
+    "before": 206000,
+    "after": 97760
+  },
+  {
+    "original": "28000\\WhatsApp Image 2026-10-22 at 09.44.07.jpeg",
+    "optimized": "assets\\products\\billeteras-28000-03.webp",
+    "before": 195471,
+    "after": 88746
+  },
+  {
+    "original": "28000\\WhatsApp Image 2026-10-22 at 09.44.08.jpeg",
+    "optimized": "assets\\products\\billeteras-28000-04.webp",
+    "before": 215059,
+    "after": 105292
+  },
+  {
+    "original": "28000\\WhatsApp Image 2026-10-22 at 09.44.09.jpeg",
+    "optimized": "assets\\products\\billeteras-28000-05.webp",
+    "before": 212492,
+    "after": 100670
+  },
+  {
+    "original": "28000\\WhatsApp Image 2026-10-22 at 09.44.10.jpeg",
+    "optimized": "assets\\products\\billeteras-28000-06.webp",
+    "before": 220423,
+    "after": 108320
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.33 (1).jpeg",
+    "optimized": "assets\\products\\gorras-30000-01.webp",
+    "before": 110209,
+    "after": 76702
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.33.jpeg",
+    "optimized": "assets\\products\\gorras-30000-02.webp",
+    "before": 96383,
+    "after": 72946
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.35.jpeg",
+    "optimized": "assets\\products\\gorras-30000-03.webp",
+    "before": 123831,
+    "after": 88022
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.36.jpeg",
+    "optimized": "assets\\products\\gorras-30000-04.webp",
+    "before": 98847,
+    "after": 63490
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.37.jpeg",
+    "optimized": "assets\\products\\gorras-30000-05.webp",
+    "before": 110263,
+    "after": 68758
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.39 (1).jpeg",
+    "optimized": "assets\\products\\gorras-30000-06.webp",
+    "before": 98354,
+    "after": 59966
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.39.jpeg",
+    "optimized": "assets\\products\\gorras-30000-07.webp",
+    "before": 91867,
+    "after": 68542
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.40.jpeg",
+    "optimized": "assets\\products\\gorras-30000-08.webp",
+    "before": 104476,
+    "after": 69004
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.41.jpeg",
+    "optimized": "assets\\products\\gorras-30000-09.webp",
+    "before": 101593,
+    "after": 63932
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.42.jpeg",
+    "optimized": "assets\\products\\gorras-30000-10.webp",
+    "before": 81571,
+    "after": 57112
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.43.jpeg",
+    "optimized": "assets\\products\\gorras-30000-11.webp",
+    "before": 121887,
+    "after": 87694
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.44.jpeg",
+    "optimized": "assets\\products\\gorras-30000-12.webp",
+    "before": 151191,
+    "after": 120026
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.45.jpeg",
+    "optimized": "assets\\products\\gorras-30000-13.webp",
+    "before": 106995,
+    "after": 70688
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.47 (1).jpeg",
+    "optimized": "assets\\products\\gorras-30000-14.webp",
+    "before": 162040,
+    "after": 110142
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.47.jpeg",
+    "optimized": "assets\\products\\gorras-30000-15.webp",
+    "before": 128904,
+    "after": 92446
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.48.jpeg",
+    "optimized": "assets\\products\\gorras-30000-16.webp",
+    "before": 181998,
+    "after": 130602
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.49.jpeg",
+    "optimized": "assets\\products\\gorras-30000-17.webp",
+    "before": 129325,
+    "after": 100020
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.50.jpeg",
+    "optimized": "assets\\products\\gorras-30000-18.webp",
+    "before": 177326,
+    "after": 122852
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.51.jpeg",
+    "optimized": "assets\\products\\gorras-30000-19.webp",
+    "before": 98256,
+    "after": 62932
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.52.jpeg",
+    "optimized": "assets\\products\\gorras-30000-20.webp",
+    "before": 92433,
+    "after": 57624
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.53.jpeg",
+    "optimized": "assets\\products\\gorras-30000-21.webp",
+    "before": 124124,
+    "after": 87440
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.54.jpeg",
+    "optimized": "assets\\products\\gorras-30000-22.webp",
+    "before": 129614,
+    "after": 89346
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.55 (1).jpeg",
+    "optimized": "assets\\products\\gorras-30000-23.webp",
+    "before": 171103,
+    "after": 115274
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.55.jpeg",
+    "optimized": "assets\\products\\gorras-30000-24.webp",
+    "before": 106100,
+    "after": 69986
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.56.jpeg",
+    "optimized": "assets\\products\\gorras-30000-25.webp",
+    "before": 178234,
+    "after": 127640
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.57.jpeg",
+    "optimized": "assets\\products\\gorras-30000-26.webp",
+    "before": 117267,
+    "after": 83088
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.04.59.jpeg",
+    "optimized": "assets\\products\\gorras-30000-27.webp",
+    "before": 114938,
+    "after": 92458
+  },
+  {
+    "original": "30000\\WhatsApp Image 2026-10-23 at 15.05.00.jpeg",
+    "optimized": "assets\\products\\gorras-30000-28.webp",
+    "before": 105063,
+    "after": 69606
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.35.51.jpeg",
+    "optimized": "assets\\products\\gorras-32000-01.webp",
+    "before": 107546,
+    "after": 76340
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.35.52 (1).jpeg",
+    "optimized": "assets\\products\\gorras-32000-02.webp",
+    "before": 119261,
+    "after": 90024
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.35.52.jpeg",
+    "optimized": "assets\\products\\gorras-32000-03.webp",
+    "before": 124579,
+    "after": 92382
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.35.53.jpeg",
+    "optimized": "assets\\products\\gorras-32000-04.webp",
+    "before": 92839,
+    "after": 63100
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.35.54.jpeg",
+    "optimized": "assets\\products\\gorras-32000-05.webp",
+    "before": 116531,
+    "after": 88646
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.35.55.jpeg",
+    "optimized": "assets\\products\\gorras-32000-06.webp",
+    "before": 137105,
+    "after": 108074
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.35.56.jpeg",
+    "optimized": "assets\\products\\gorras-32000-07.webp",
+    "before": 68571,
+    "after": 49888
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.00 (1).jpeg",
+    "optimized": "assets\\products\\gorras-32000-08.webp",
+    "before": 111974,
+    "after": 79188
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.00.jpeg",
+    "optimized": "assets\\products\\gorras-32000-09.webp",
+    "before": 54313,
+    "after": 39746
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.03.jpeg",
+    "optimized": "assets\\products\\gorras-32000-10.webp",
+    "before": 58685,
+    "after": 48090
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.04.jpeg",
+    "optimized": "assets\\products\\gorras-32000-11.webp",
+    "before": 63832,
+    "after": 51270
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.06.jpeg",
+    "optimized": "assets\\products\\gorras-32000-12.webp",
+    "before": 63818,
+    "after": 52270
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.08.jpeg",
+    "optimized": "assets\\products\\gorras-32000-13.webp",
+    "before": 59109,
+    "after": 46060
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.09.jpeg",
+    "optimized": "assets\\products\\gorras-32000-14.webp",
+    "before": 61427,
+    "after": 47356
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.13.jpeg",
+    "optimized": "assets\\products\\gorras-32000-15.webp",
+    "before": 53098,
+    "after": 38202
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.14.jpeg",
+    "optimized": "assets\\products\\gorras-32000-16.webp",
+    "before": 128316,
+    "after": 96654
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.18.jpeg",
+    "optimized": "assets\\products\\gorras-32000-17.webp",
+    "before": 60012,
+    "after": 45672
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.20.jpeg",
+    "optimized": "assets\\products\\gorras-32000-18.webp",
+    "before": 60334,
+    "after": 44922
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.21.jpeg",
+    "optimized": "assets\\products\\gorras-32000-19.webp",
+    "before": 58241,
+    "after": 42882
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.25.jpeg",
+    "optimized": "assets\\products\\gorras-32000-20.webp",
+    "before": 88615,
+    "after": 50508
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.26.jpeg",
+    "optimized": "assets\\products\\gorras-32000-21.webp",
+    "before": 75865,
+    "after": 63050
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.27.jpeg",
+    "optimized": "assets\\products\\gorras-32000-22.webp",
+    "before": 130846,
+    "after": 79032
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.29.jpeg",
+    "optimized": "assets\\products\\gorras-32000-23.webp",
+    "before": 80829,
+    "after": 69226
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.31.jpeg",
+    "optimized": "assets\\products\\gorras-32000-24.webp",
+    "before": 64914,
+    "after": 48612
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.32.jpeg",
+    "optimized": "assets\\products\\gorras-32000-25.webp",
+    "before": 75431,
+    "after": 60770
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.34.jpeg",
+    "optimized": "assets\\products\\gorras-32000-26.webp",
+    "before": 70961,
+    "after": 59574
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.37.jpeg",
+    "optimized": "assets\\products\\gorras-32000-27.webp",
+    "before": 70789,
+    "after": 59324
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.39.jpeg",
+    "optimized": "assets\\products\\gorras-32000-28.webp",
+    "before": 74459,
+    "after": 61392
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.40.jpeg",
+    "optimized": "assets\\products\\gorras-32000-29.webp",
+    "before": 79468,
+    "after": 65574
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.42.jpeg",
+    "optimized": "assets\\products\\gorras-32000-30.webp",
+    "before": 86264,
+    "after": 56064
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.43.jpeg",
+    "optimized": "assets\\products\\gorras-32000-31.webp",
+    "before": 80160,
+    "after": 68988
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.47.jpeg",
+    "optimized": "assets\\products\\gorras-32000-32.webp",
+    "before": 66380,
+    "after": 53162
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.49.jpeg",
+    "optimized": "assets\\products\\gorras-32000-33.webp",
+    "before": 74168,
+    "after": 61360
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.50.jpeg",
+    "optimized": "assets\\products\\gorras-32000-34.webp",
+    "before": 78620,
+    "after": 68740
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.57.jpeg",
+    "optimized": "assets\\products\\gorras-32000-35.webp",
+    "before": 68000,
+    "after": 51638
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.36.58.jpeg",
+    "optimized": "assets\\products\\gorras-32000-36.webp",
+    "before": 71030,
+    "after": 57552
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.37.00.jpeg",
+    "optimized": "assets\\products\\gorras-32000-37.webp",
+    "before": 73562,
+    "after": 60908
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.37.04.jpeg",
+    "optimized": "assets\\products\\gorras-32000-38.webp",
+    "before": 108783,
+    "after": 80900
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.37.10.jpeg",
+    "optimized": "assets\\products\\gorras-32000-39.webp",
+    "before": 118878,
+    "after": 88862
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.37.15 (1).jpeg",
+    "optimized": "assets\\products\\gorras-32000-40.webp",
+    "before": 56321,
+    "after": 42108
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.37.15.jpeg",
+    "optimized": "assets\\products\\gorras-32000-41.webp",
+    "before": 106275,
+    "after": 74998
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.37.18.jpeg",
+    "optimized": "assets\\products\\gorras-32000-42.webp",
+    "before": 56184,
+    "after": 39718
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.37.22.jpeg",
+    "optimized": "assets\\products\\gorras-32000-43.webp",
+    "before": 117538,
+    "after": 84870
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.37.25.jpeg",
+    "optimized": "assets\\products\\gorras-32000-44.webp",
+    "before": 70585,
+    "after": 43434
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.37.33.jpeg",
+    "optimized": "assets\\products\\gorras-32000-45.webp",
+    "before": 74652,
+    "after": 45938
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.37.49.jpeg",
+    "optimized": "assets\\products\\gorras-32000-46.webp",
+    "before": 57546,
+    "after": 42114
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.38.04.jpeg",
+    "optimized": "assets\\products\\gorras-32000-47.webp",
+    "before": 75243,
+    "after": 60958
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.38.21.jpeg",
+    "optimized": "assets\\products\\gorras-32000-48.webp",
+    "before": 71537,
+    "after": 57668
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.38.36.jpeg",
+    "optimized": "assets\\products\\gorras-32000-49.webp",
+    "before": 72126,
+    "after": 58526
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.38.49.jpeg",
+    "optimized": "assets\\products\\gorras-32000-50.webp",
+    "before": 55919,
+    "after": 40406
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.39.15.jpeg",
+    "optimized": "assets\\products\\gorras-32000-51.webp",
+    "before": 78569,
+    "after": 60488
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.39.31.jpeg",
+    "optimized": "assets\\products\\gorras-32000-52.webp",
+    "before": 62494,
+    "after": 44230
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.39.36.jpeg",
+    "optimized": "assets\\products\\gorras-32000-53.webp",
+    "before": 84171,
+    "after": 58276
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.39.56.jpeg",
+    "optimized": "assets\\products\\gorras-32000-54.webp",
+    "before": 65985,
+    "after": 49956
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.40.14.jpeg",
+    "optimized": "assets\\products\\gorras-32000-55.webp",
+    "before": 68007,
+    "after": 42746
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.40.41.jpeg",
+    "optimized": "assets\\products\\gorras-32000-56.webp",
+    "before": 78185,
+    "after": 49698
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.40.57.jpeg",
+    "optimized": "assets\\products\\gorras-32000-57.webp",
+    "before": 62635,
+    "after": 47858
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.43.00.jpeg",
+    "optimized": "assets\\products\\gorras-32000-58.webp",
+    "before": 91581,
+    "after": 43020
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.43.10.jpeg",
+    "optimized": "assets\\products\\gorras-32000-59.webp",
+    "before": 78414,
+    "after": 47454
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.43.23.jpeg",
+    "optimized": "assets\\products\\gorras-32000-60.webp",
+    "before": 73572,
+    "after": 44280
+  },
+  {
+    "original": "32000\\WhatsApp Image 2026-10-24 at 13.43.47.jpeg",
+    "optimized": "assets\\products\\gorras-32000-61.webp",
+    "before": 64039,
+    "after": 39500
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.19.jpeg",
+    "optimized": "assets\\products\\gorras-35000-01.webp",
+    "before": 173005,
+    "after": 105046
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.20.jpeg",
+    "optimized": "assets\\products\\gorras-35000-02.webp",
+    "before": 160395,
+    "after": 95632
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.21 (1).jpeg",
+    "optimized": "assets\\products\\gorras-35000-03.webp",
+    "before": 221108,
+    "after": 151988
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.21.jpeg",
+    "optimized": "assets\\products\\gorras-35000-04.webp",
+    "before": 160124,
+    "after": 89578
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.22.jpeg",
+    "optimized": "assets\\products\\gorras-35000-05.webp",
+    "before": 218943,
+    "after": 150980
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.23.jpeg",
+    "optimized": "assets\\products\\gorras-35000-06.webp",
+    "before": 228602,
+    "after": 157062
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.24.jpeg",
+    "optimized": "assets\\products\\gorras-35000-07.webp",
+    "before": 224780,
+    "after": 158168
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.25.jpeg",
+    "optimized": "assets\\products\\gorras-35000-08.webp",
+    "before": 217539,
+    "after": 147616
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.26.jpeg",
+    "optimized": "assets\\products\\gorras-35000-09.webp",
+    "before": 217941,
+    "after": 148810
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.27 (1).jpeg",
+    "optimized": "assets\\products\\gorras-35000-10.webp",
+    "before": 212839,
+    "after": 147394
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.27.jpeg",
+    "optimized": "assets\\products\\gorras-35000-11.webp",
+    "before": 208675,
+    "after": 139402
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.28.jpeg",
+    "optimized": "assets\\products\\gorras-35000-12.webp",
+    "before": 180297,
+    "after": 113994
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.29.jpeg",
+    "optimized": "assets\\products\\gorras-35000-13.webp",
+    "before": 155960,
+    "after": 93108
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.30.jpeg",
+    "optimized": "assets\\products\\gorras-35000-14.webp",
+    "before": 225155,
+    "after": 153736
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.31.jpeg",
+    "optimized": "assets\\products\\gorras-35000-15.webp",
+    "before": 240013,
+    "after": 173154
+  },
+  {
+    "original": "35000\\WhatsApp Image 2026-10-21 at 11.01.32.jpeg",
+    "optimized": "assets\\products\\gorras-35000-16.webp",
+    "before": 180667,
+    "after": 113754
+  }
+]

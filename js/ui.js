@@ -1,0 +1,5 @@
+import {money} from './config.js';
+export const escapeHTML = value => String(value).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+export const card = p => `<article class="product-card"><button class="product-photo" data-product="${p.id}" aria-label="Ver ${escapeHTML(p.name)}"><img src="${p.images[0]}" alt="${escapeHTML(p.name)}" loading="lazy" width="600" height="720"><span class="photo-arrow">↗</span></button><div class="product-meta"><div><small>${p.category}</small><h3><button data-product="${p.id}">${escapeHTML(p.name)}</button></h3></div><span>${money(p.price)}</span></div></article>`;
+export const heading = (eyebrow,title,text='') => `<section class="page-heading"><p class="eyebrow">${eyebrow}</p><h1>${title}</h1>${text?`<p>${text}</p>`:''}</section>`;
+export function toast(message){const el=document.querySelector('#toast');el.textContent=message;el.classList.add('show');clearTimeout(toast.timer);toast.timer=setTimeout(()=>el.classList.remove('show'),3000);}
